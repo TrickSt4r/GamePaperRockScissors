@@ -42,4 +42,6 @@ public class MyOpenHelper extends SQLiteOpenHelper{
     public void onUpgrade(SQLiteDatabase sqLiteDatabase, int oldVersion, int newVersion) {
 
     }
+
+
 }// mainclass
