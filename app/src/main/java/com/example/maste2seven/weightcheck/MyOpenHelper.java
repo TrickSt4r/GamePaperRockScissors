@@ -36,6 +36,7 @@ public class MyOpenHelper extends SQLiteOpenHelper{
     public void onCreate(SQLiteDatabase sqLiteDatabase) {
         sqLiteDatabase.execSQL(table_weight);
         sqLiteDatabase.execSQL(table_user);
+
     }
 
     @Override
