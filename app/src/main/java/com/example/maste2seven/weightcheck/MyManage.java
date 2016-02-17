@@ -41,5 +41,5 @@ public class MyManage {
         return writeSqLiteDatabase.insert(table_User, null, objContentValues);
     }
 
-}//main classz
+}//main class
 
