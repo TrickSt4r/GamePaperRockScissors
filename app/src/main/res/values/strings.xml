@@ -4,6 +4,8 @@
     <string name="regis">ลงทะเบียนใช้งาน</string>
     <string name="have_space">กรุณากรอกทุกช่อง</string>
     <string name="success_regis">ลงทะเบียนเรียบร้อยแล้ว</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
 
 
 </resources>
